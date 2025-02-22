@@ -1,0 +1,21 @@
+Support Case: SC001
+Customer: John Doe (C1)
+Product: Laptop Pro (P1)
+Date: 2024-01-20
+
+Issue:
+Customer reports laptop not turning on after 5 days of use.
+
+Troubleshooting Steps:
+1. Verified power adapter connection
+2. Performed hard reset (10-second power button hold)
+3. Tested with different power outlet
+
+Resolution:
+- Hard reset resolved the issue
+- Explained power management features to customer
+- Added note to user manual about power states
+
+Customer Feedback:
+Rating: 4/5
+Comment: "Quick resolution, but would have liked this info in initial setup guide"

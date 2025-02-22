@@ -9,7 +9,7 @@
 ## Quick Start
 
 ### 1. Neo4j Setup (5 min)
-1. Visit [Neo4j AuraDB](https://neo4j.com/cloud/aura-free/)
+1. Visit [Neo4j AuraDB](https://console.neo4j.io)
 2. Create free instance
 3. Save credentials
 

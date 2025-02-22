@@ -81,7 +81,7 @@ kg_workshop_quick/
 4. Test connection
 
 ## Resources
-- [Neo4j AuraDB](https://neo4j.com/cloud/aura-free/)
+- [Neo4j AuraDB](https://console.neo4j.io/)
 - [Workshop Documentation](./docs/workshop_overview.md)
 - [Setup Guide](./docs/setup.md)
 - [Cypher Cheatsheet](./docs/cypher_cheatsheet.md)

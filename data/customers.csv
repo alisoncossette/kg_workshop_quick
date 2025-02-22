@@ -1,0 +1,6 @@
+customer_id,name,email,join_date
+C1,John Doe,john.doe@email.com,2024-01-01
+C2,Jane Smith,jane.smith@email.com,2024-01-15
+C3,Bob Wilson,bob.wilson@email.com,2024-02-01
+C4,Alice Brown,alice.brown@email.com,2024-02-15
+C5,Charlie Davis,charlie.davis@email.com,2024-03-01

@@ -10,7 +10,7 @@ A fast-paced, hands-on workshop introducing Knowledge Graphs, GraphRAG patterns,
 ## Quick Start
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/kg_workshop_quick.git
+git clone https://github.com/alisoncossette/kg_workshop_quick.git
 cd kg_workshop_quick
 
 # Set up environment
@@ -69,27 +69,27 @@ kg_workshop_quick/
 │   ├── 04_graphrag_patterns.ipynb
 │   └── 05_memory_graph.ipynb
 ├── slides/                 # Presentation materials
-├── solutions/             # Exercise solutions
+├── docs/                  # Additional documentation
 ├── requirements.txt       # Dependencies
 └── .env.example          # Template for Neo4j credentials
 ```
 
 ## Pre-workshop Setup
-1. Create Neo4j AuraDB instance (instructions in slides)
+1. Create Neo4j AuraDB instance (instructions in docs)
 2. Install dependencies
 3. Download workshop materials
 4. Test connection
 
 ## Resources
-- [GraphRAG Documentation](https://graphrag.com)
 - [Neo4j AuraDB](https://neo4j.com/cloud/aura-free/)
-- [Workshop Slides](./slides/workshop_slides.pdf)
-- [Extended Workshop Version](https://github.com/yourusername/kg_workshop)
+- [Workshop Documentation](./docs/workshop_overview.md)
+- [Setup Guide](./docs/setup.md)
+- [Cypher Cheatsheet](./docs/cypher_cheatsheet.md)
 
 ## License
 MIT
 
 ## Contact
-Your Name
-- Email: your.email@example.com
-- Twitter: @yourhandle
+Alison Cossette
+- Email: alisoncossette@gmail.com
+- GitHub: @alisoncossette
